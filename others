@@ -1,0 +1,41 @@
+#obj = os.listdir()
+#print(os.getcwd())
+#for o in obj:
+    #print (o, 
+           #os.path.isfile(o), 
+           #os.path.isdir(o), 
+           #os.path.exists(o))
+
+#data_file = 'data.csv'
+
+#print(data_file, 'exisis?', os.path.exists(data_file))
+
+#with open ('/Users/egorzakiryaev/projects/ecom/test.py', 'r') as f:
+   #for line in f:
+    #print(line)
+
+#with open('/Users/egorzakiryaev/projects/ecom/test.py', 'r') as f:
+    #txt = f.read()
+    
+    #print(txt)
+
+
+#with open ('/Users/egorzakiryaev/projects/ecom/test.py', 'w') as f:
+    #f.write('Привет\n')
+    #f.writelines(['Всем до встречи\n', 'zzz\n', 'work\n'])
+
+#new_user = ['Ekaterina,kate', 'Kolmakova', 23]
+#with open ('/Users/egorzakiryaev/projects/ecom/users.csv', 'a', newline='') as f:
+   # writer = csv.writer(f)
+   # writer.writerow(new_user)
+
+
+
+
+
+#with open( '/Users/egorzakiryaev/projects/ecom/text.txt', 'w') as f:
+          #json.dump(one_more_new_user, f)
+           
+#with open( '/Users/egorzakiryaev/projects/ecom/text.txt', 'r') as f:
+       # u = json.load(f)
+        #print(u['first_name'])
