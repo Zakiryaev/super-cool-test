@@ -1,6 +1,2 @@
 /Users/egorzakiryaev
-2024-08-22 15:50:01.213417
-Traceback (most recent call last):
-  File "/Users/egorzakiryaev/projects/ecom/cron_basics.py", line 3, in <module>
-    ccdcdc
-NameError: name 'ccdcdc' is not defined
+/Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/egorzakiryaev/projects/ecom/cron_basics.py': [Errno 2] No such file or directory
